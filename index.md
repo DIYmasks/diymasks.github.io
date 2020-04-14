@@ -6,7 +6,7 @@ There are some important things you need to do now, and for the foreseeable futu
 - stay away from other people. This reduces the risk of getting in touch with someone who is sick, putting you at risk of contracting the disease, and reduces the risk that you, who may have been infected, in turn spread the disease to others.
 - wash your hands frequently with soap and water. The virus can get into you through your mouth, nose and eyes. This can happen because you are in close contact with someone who is sick, who directly passes it on to you, or it could be because you touch with your hands a surface contaminated with the virus. In the latter case, if you touch your face/nose/mouth/eyes with your hand, you have a high chance of being infected. Washing your hands removes the virus from your hands and reduces the chances it may enter your body.
 - if your hands have touched a contaminated surface, they will contaminate everything you touch (e.g.: your phone, house keys, payment cards, pockets). Be mindful of that and avoid touching anything that is not essential, and try not to touch personal objects with the same hand you used to, e.g.: open the door to a shop.
-- if you really have to be in contact with other people (e.g.: going to work or shopping), then you can wear a face masks that covers nose and mouth. This heavily reduces the amount of virus-containing particles that can spread from the respiratory system of an infected person. It also reduces the chances that healthy subjects contract the virus, as droplets expelled by sick people would have a harder time reaching their mouth and eyes. Remember: **wearing a face mask is not an iron-clad. You still need to stay as far as possible from other people, wash your hands, and use the mask properly in order for it to protect others and you**.
+- if you really have to be in contact with other people (e.g.: going to work or shopping), then you can wear a face masks that covers nose and mouth. This heavily reduces the amount of virus-containing particles that can spread from the respiratory system of an infected person. It also reduces the chances that healthy subjects contract the virus, as droplets expelled by sick people would have a harder time reaching their mouth and eyes. Remember: **wearing a face mask is not an iron-clad. You still need to stay as far as possible from other people, wash your hands, do not touch your face, and use the mask properly in order for it to protect you and others**.
 
 ## Summary of our view on the current face masks situation
 
@@ -19,7 +19,7 @@ The key points are:
 - it should cover your **nose** and **mouth**
 - your hands should be clean when you put it on and remove it (remember: your hands need to be clean to touch your face)
 - you should prevent the outside of the mask from touching your face (remember: if the mask prevented any infected droplets from getting into your mouth/nose, they will be right there *on the mask*. You don't want to rub them on your face)
-- different type of masks have different durability. 
+- different type of masks have different durability. Some can be reused, some can be washed. In general, if the mask is damp, it needs to dry before you can reuse it. If the mask has holes or is falling apart, it should be discarded. If your mask is reusable, to avoid being infected by the particles it may have collected, you can store it in a safe place (e.g.: a plastic bag) for 4 days before taking it out and letting it dry.
 
 The images below are from the World Health Organization [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). We amended them (and omitted one) in line with our advice to reuse masks.
 
@@ -37,7 +37,7 @@ Our take: the general public should use a mask every time you get out of the hou
 
 ![alt text](masks-7.png)
 
-Our take: depending on the type of mask, you may not need to discard it. You can store it in a safe place (e.g.: a plastic bag) for 4 days before taking it out and letting it dry.
+Our take: depending on the type of mask, you may not need to discard it. 
 
 
 ## Selected quotes
