@@ -1,7 +1,20 @@
 Wear a face mask to protect yourself and people around you.
 
+The images below are from the World Health Organization [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). We amended them (and omitted one) in line with our advice to reuse masks.
 
+![alt text](masks-1.png)
 
+![alt text](masks-2.png)
+Our take: you should use a mask every time you get out of the house, and within the house if someone you live with is infected.
+
+![alt text](masks-3.png)
+
+![alt text](masks-4.png)
+
+![alt text](masks-5.png)
+
+![alt text](masks-7.png)
+Our take: depending on the type of mask, you may not need to discard it. You can store it in a safe place (e.g.: a plastic bag) for 4 days before taking it out and letting it dry.
 
 Get in touch at diymasks1612@gmail.com
 
