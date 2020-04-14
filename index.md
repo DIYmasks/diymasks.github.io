@@ -27,7 +27,7 @@ The images below are from the World Health Organization [website](https://www.wh
 
 ![alt text](masks-2.png)
 
-Our take: the genearl public should use a mask every time you get out of the house, and within the house if someone you live with is infected.
+Our take: the general public should use a mask every time you get out of the house, and within the house if someone you live with is infected.
 
 ![alt text](masks-3.png)
 
