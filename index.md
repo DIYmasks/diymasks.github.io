@@ -78,10 +78,12 @@ To make our masks we followed the video below. It is in a foreign language, but 
 </video>
 
 We used the following items from Amazon:
--[50 pet training pads](https://www.amazon.co.uk/gp/product/B00MW8G3YU)) You can make six masks out of one of these pads (total 300 masks) (enough for 300 masks).
-- [elastic cord](https://www.amazon.co.uk/gp/product/B00ECZOZIW/) (enough for 60 masks)
-- [1 stapler](https://www.amazon.co.uk/gp/product/B07CTRZSGD/))
+
+- [50 pet training pads](https://www.amazon.co.uk/gp/product/B00MW8G3YU)) You can make six masks out of one of these pads (enough for 300 masks).
+- [elastic cord](https://www.amazon.co.uk/gp/product/B00ECZOZIW/) (this was shorter than advertised, as we only got enough for 60 masks instead of 100 as you'd expect for a 30m roll and 30cm per masks)
+- [1 stapler](https://www.amazon.co.uk/gp/product/B07CTRZSGD/)
 - you also need scissors, we didn't buy them as we had them at home
+
 **Please note: do not buy the above if you are only doing a couple of masks for you and your household.** Only buy them if you are planning on doing a large numbers of masks for the benefit of others. Elastic bands are really scarce these days and you wouldn't want to have a several meters of unused elastic band in your home while preventing others from making masks.
 
 Also note: the elastic cord we used is suboptimal for the job and it is not suitable for ear loops becasuse it is too wide and too stong (not stretchy enough). Ideally you'd have some more stretchable and loose elastic cord, of the type found on real face masks. [This](https://www.amazon.co.uk/White-Elastic-Earloop-Strap-Sewing/dp/B086MYP5YT/) would have been a better option, but, as you'd expect, it is backordered.
