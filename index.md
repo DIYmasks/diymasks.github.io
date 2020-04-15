@@ -72,6 +72,11 @@ https://diymask.github.io/
 
 To make our masks we followed the video below. It is in a foreign language, but it should be fairly easy to understand it anyhow. It uses pet training pads, which have one side covered by a comfy soft absorbing pad and the other one covered by plastic protective sheet wich ensures the vast majority of the fluids escaping your mouth and nose will get trapped in the absorbing part. This also makes it harder for fluids emitted by other people to reach your mouth and nose. We cut out of the pads a rectangle about 24cm x 16cm, and a 30cm length of elastic band of the type you'd use for sewing. Watching the example in the video, we folded the pad and stapled the elastic band to the pad. 
 
+<video height="720" controls>
+  <source src="masks-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 We used the following items from Amazon:
 -[50 pet training pads](https://www.amazon.co.uk/gp/product/B00MW8G3YU)) You can make six masks out of one of these pads (total 300 masks) (enough for 300 masks).
 - [elastic cord](https://www.amazon.co.uk/gp/product/B00ECZOZIW/) (enough for 60 masks)
