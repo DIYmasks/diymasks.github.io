@@ -12,6 +12,8 @@ There are some important things you need to do now, and for the foreseeable futu
 
 There is a global shortage of off-the-shelf, certified face masks and respirators, and as such they should be reserved for healthcare workers and people with symptoms. If you are not in one of these categories, you probably don't need such a mask. You can make your own at home, using some of the resources below. Notice that the requirements for healthcare workers are different from that of general population: healthcare workers have to protect themselves from being in close contact with infected people, whereas members of the general population have to protect others from the infection they may be carrying. As a member of the general population, you have to consider that you may be knowingly or unknowningly infected, and you can prevent the spread of the virus to others by, besides staying away from other people, wearing a face mask. The mask will reduce the amount of infected particles that you will release in the environment around you.
 
+If you are in for the long read, you can find plenty of practical information on masks making, using, wearing, efficacy [here](https://coronavirustechhandbook.com/masks), and hygiene tips [here](https://coronavirustechhandbook.com/hygiene).
+
 ## How to use a face mask properly
 
 What mask should you use?
