@@ -86,7 +86,7 @@ We used the following items from Amazon:
 
 **Please note: do not buy the above if you are only doing a couple of masks for you and your household.** Only buy them if you are planning on doing a large numbers of masks for the benefit of others. Elastic bands are really scarce these days and you wouldn't want to have a several meters of unused elastic band in your home while preventing others from making masks.
 
-Also note: the elastic cord we used is suboptimal for the job and it is not suitable for ear loops becasuse it is too wide and too stong (not stretchy enough). Ideally you'd have some more stretchable and loose elastic cord, of the type found on real face masks. [This](https://www.amazon.co.uk/White-Elastic-Earloop-Strap-Sewing/dp/B086MYP5YT/) would have been a better option, but, as you'd expect, it is backordered.
+Also note: the elastic cord we used is suboptimal for the job and it is not suitable for ear loops becasuse it is too wide and too stong (not stretchy enough). Ideally you'd have some more stretchable and loose elastic cord, of the type found on real face masks. [This](https://www.amazon.co.uk/White-Elastic-Earloop-Strap-Sewing/dp/B086MYP5YT/) would have been a better option, but, as you'd expect, it is backordered. As demonstrated in the video, ear loops can be made with office rubber bands as well.
 
 ## FAQ
 
@@ -118,6 +118,6 @@ To which our answer is:
 - learn how to use masks properly
 - make your own masks
 
-### Is the 1612 in your username a Vulfpeck reference?
+### Is the 1612 in your email a Vulfpeck reference?
 
-No, it's the code to my heart.
+No, it's the code to [my heart](https://www.youtube.com/watch?v=jRHQPG1xd9o).
