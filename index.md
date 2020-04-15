@@ -24,6 +24,7 @@ The key points are:
 
 - a mask should cover your **nose** and **mouth**
 - your hands should be clean when you put it on and remove it (remember: your hands need to be clean to touch your face)
+- you should not adjust your mask with a potentially contaminated hand while the mask is on. Ensure you have a perfect fit before you leave your house. Masks with ear loops allow longer adjustment-free wearing times.
 - you should prevent the outside of the mask from touching your face (remember: if the mask prevented any infected droplets from getting into your mouth/nose, they will be right there *on the mask*. You don't want to rub them on your face)
 - different type of masks have different durability. Some can be reused, some can be washed. In general, if the mask is damp, it needs to dry before you can reuse it. If the mask has holes or is falling apart, it should be discarded. If your mask is reusable, to avoid being infected by the particles it may have collected, you can store it in a safe place (e.g.: a plastic bag) for 4 days before taking it out and letting it dry.
 
@@ -91,7 +92,7 @@ We used the following items from Amazon:
 
 Also note: the elastic cord we used is suboptimal for the job and it is not suitable for ear loops becasuse it is too wide and too stong (not stretchy enough). Ideally you'd have some more stretchable and loose elastic cord, of the type found on real face masks. [This](https://www.amazon.co.uk/White-Elastic-Earloop-Strap-Sewing/dp/B086MYP5YT/) would have been a better option, but, as you'd expect, it is backordered. As demonstrated in the video, ear loops can be made with office rubber bands as well.
 
-Also note: this is not necessarily the best type of mask you could make, especially if you are only making a small number of them.
+Also note: this is not necessarily the best type of mask you could make, because a masks with ear loops is a better option. Additionally, if you are only making a small number of them, then you would be wasting a lot of pads...
 
 ## FAQ
 
