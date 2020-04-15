@@ -25,7 +25,7 @@ The key points are:
 - you should prevent the outside of the mask from touching your face (remember: if the mask prevented any infected droplets from getting into your mouth/nose, they will be right there *on the mask*. You don't want to rub them on your face)
 - different type of masks have different durability. Some can be reused, some can be washed. In general, if the mask is damp, it needs to dry before you can reuse it. If the mask has holes or is falling apart, it should be discarded. If your mask is reusable, to avoid being infected by the particles it may have collected, you can store it in a safe place (e.g.: a plastic bag) for 4 days before taking it out and letting it dry.
 
-The images below are from the World Health Organization [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). We amended them (and omitted one) in line with our advice to reuse masks.
+The images below are from the World Health Organization [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). We amended them (and omitted one) in line with our view on the matter. See [below](https://diymasks.github.io/#full-disclosure) for our reasons .
 
 ![alt text](masks-1.png)
 
@@ -62,13 +62,14 @@ Our take: depending on the type of mask, you may not need to discard it.
 
 There are plenty of resources online, for instance:
 
+Plenty of resources [here](https://coronavirustechhandbook.com/masks)
+And then:
 https://www.youtube.com/watch?v=5cAmdlgYI_E
-
 https://www.youtube.com/watch?v=uZetqMfWXKk
-
 https://www.youtube.com/watch?v=9yP_fnr4oVY
-
 https://diymask.github.io/
+
+## How we made our masks
 
 To make our masks we followed the video below. It is in a foreign language, but it should be fairly easy to understand it anyhow. It uses pet training pads, which have one side covered by a comfy soft absorbing pad and the other one covered by plastic protective sheet wich ensures the vast majority of the fluids escaping your mouth and nose will get trapped in the absorbing part. This also makes it harder for fluids emitted by other people to reach your mouth and nose. We cut out of the pads a rectangle about 24cm x 16cm, and a 30cm length of elastic band of the type you'd use for sewing. Watching the example in the video, we folded the pad and stapled the elastic band to the pad. 
 
@@ -88,6 +89,8 @@ We used the following items from Amazon:
 
 Also note: the elastic cord we used is suboptimal for the job and it is not suitable for ear loops becasuse it is too wide and too stong (not stretchy enough). Ideally you'd have some more stretchable and loose elastic cord, of the type found on real face masks. [This](https://www.amazon.co.uk/White-Elastic-Earloop-Strap-Sewing/dp/B086MYP5YT/) would have been a better option, but, as you'd expect, it is backordered. As demonstrated in the video, ear loops can be made with office rubber bands as well.
 
+Also note: this is not necessarily the best type of mask you could make, especially if you are only making a small number of them.
+
 ## FAQ
 
 ### Why do you do this? Do you want my money? Are you making any money out of this?
@@ -96,7 +99,7 @@ No. We are trying to be useful.
 
 ### Are you a doctor?
 
-We are a doctor of philosophy and an aspiring doctor of phylosophy. No medical doctors here.
+No medical doctors here. We are a doctor of philosophy (PhD in Electronic Engineering) and an aspiring doctor of phylosophy (wannabe PhD in Economic History). My sister is a doctor, though, and she recommended me the video tutorial we followed for our masks.
 
 ### Full disclosure
 
