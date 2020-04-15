@@ -126,3 +126,13 @@ To which our answer is:
 ### Is the 1612 in your email a Vulfpeck reference?
 
 No, it's the code to [my heart](https://www.youtube.com/watch?v=jRHQPG1xd9o).
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163669509-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163669509-1');
+</script>
