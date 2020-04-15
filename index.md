@@ -101,7 +101,7 @@ No. We are trying to be useful.
 
 ### Are you a doctor?
 
-No medical doctors here. We are a doctor of philosophy (PhD in Electronic Engineering) and an aspiring doctor of phylosophy (wannabe PhD in Economic History). My sister is a doctor, though, and she recommended me the video tutorial we followed for our masks.
+No medical doctors here. We are a doctor of philosophy (PhD in Electronic Engineering) and an aspiring doctor of phylosophy (wannabe PhD in Economic History).
 
 ### Full disclosure
 
