@@ -79,7 +79,7 @@ To make our masks we followed the video below. It is in a foreign language, but 
 
 We used the following items from Amazon:
 
-- [50 pet training pads](https://www.amazon.co.uk/gp/product/B00MW8G3YU)) You can make six masks out of one of these pads (enough for 300 masks).
+- [50 pet training pads](https://www.amazon.co.uk/gp/product/B00MW8G3YU) You can make six masks out of one of these pads (enough for 300 masks).
 - [elastic cord](https://www.amazon.co.uk/gp/product/B00ECZOZIW/) (this was shorter than advertised, as we only got enough for 60 masks instead of 100 as you'd expect for a 30m roll and 30cm per masks)
 - [1 stapler](https://www.amazon.co.uk/gp/product/B07CTRZSGD/)
 - you also need scissors, we didn't buy them as we had them at home
